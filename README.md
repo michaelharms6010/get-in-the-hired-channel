@@ -16,7 +16,7 @@ Build apps. Nobody is gonna hire you for being a lambda grad. Nobody's gonna hir
 
 Get used to googling and solving your own problems, it never ends and it's a real skill.
 
-While I bigly recommend the AWS practice, but most of all, it's about systems over goals. Actionable daily tasks that increase your exposure to success.
+While I bigly recommend the AWS practice, most of all, it's about systems over goals. Actionable daily tasks that increase your exposure to success.
 
 It takes a little luck. I had to find a crypto-friendly employer who dug my side projects, and even then I had to crush the technical interview. You can't force luck. But you can do things every day that increase your exposure to potential luck. Sleep, diet, exercise, projects. Sustainable, daily habits.
 
